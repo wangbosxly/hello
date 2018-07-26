@@ -1,0 +1,18 @@
+Index: src/com/idea/demo/HelloWorld.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/com/idea/demo/HelloWorld.java	(date 1532614520000)
++++ src/com/idea/demo/HelloWorld.java	(revision )
+@@ -5,7 +5,8 @@
+  */
+ public class HelloWorld {
+ 
+-    public static void main(String[] args) {
+-        System.out.println("HelloWorld");
++    public static void main(String[] args)
++    {
++        System.out.println("HelloWorld2");
+     }
+ }
